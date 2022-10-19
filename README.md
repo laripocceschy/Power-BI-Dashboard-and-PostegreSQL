@@ -1,4 +1,4 @@
-# Power-BI-Dashboard-and-PostegreSQL
+# Power-BI-Dashboard-and-PostgreSQL
 ## In this project I developed a local postgreSQL database on my machine with sales data using csv file sources to import into sql. After creating the database where the sales tables were contained in a marketing schema that I created I used the consumption of the great SQL connect in power bi connecting the foreign keys in the star schema of the dash board.
 
 ![image](https://user-images.githubusercontent.com/114714846/196592145-1a547903-c959-4d93-8c89-0beae7a6e033.png)
