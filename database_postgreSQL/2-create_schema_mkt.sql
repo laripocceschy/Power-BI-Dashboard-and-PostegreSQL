@@ -1,0 +1,6 @@
+-- SCHEMA: mkt
+
+-- DROP SCHEMA IF EXISTS mkt ;
+
+CREATE SCHEMA IF NOT EXISTS mkt
+    AUTHORIZATION postgres;
